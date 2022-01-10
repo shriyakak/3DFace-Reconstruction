@@ -1,7 +1,7 @@
 # Weakly Supervised 3D Face Reconstruction in the Wild
 
 <p align="center"> 
-<img src="Testsamples/Result.png">
+<img src="Testsample/Result.png">
 </p>
 <p align="center"><p align="center">
 
