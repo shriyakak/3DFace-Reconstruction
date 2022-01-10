@@ -1,5 +1,10 @@
 # Weakly Supervised 3D Face Reconstruction in the Wild
 
+<p align="center"> 
+<img src="Testsamples/Result.png">
+</p>
+<p align="center"><p align="center">
+
 In this work, reconstruction pipeline is implemented to reconstruct 3D head model from a single image in-the-wild. This work is motivated from [arXiv paper](https://arxiv.org/abs/1905.06817) and [arXiv paper](https://arxiv.org/abs/2012.04012).
 
 **Datasets**
